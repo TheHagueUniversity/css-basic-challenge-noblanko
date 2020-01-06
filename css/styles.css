@@ -1,4 +1,5 @@
 
+
 /* Global styles
 ------------------------------------*/
 html {
@@ -9,7 +10,7 @@ html {
 }
 
 body {
-  color: #343434;
+  color: #1F0C38;
   margin: 0;
   padding: 0;
   font-family: 'Montserrat', sans-serif;
@@ -20,7 +21,7 @@ img {
   width: 300px;
 }
 a {
-  color: #90A033;
+  color: #0F3747;
 }
 a:hover {
   text-decoration: none;
@@ -53,7 +54,7 @@ h3 {
   margin: 0;
 }
 .divider > section {
-  border-bottom: 1px dashed #943B68;
+  border-bottom: 1px dashed #1F0C38;
   padding: 25px 0;
 }
 .divider > section:last-of-type {
@@ -64,23 +65,23 @@ h3 {
 /* Profile
 ------------------------------------*/
 header {
-  background: #0C082E;
-  color: #F7FFF7;
-  font-family: 'Poppins', sans-serif;
+  background: #3EA89B;
+  color: #DBECFF;
+  font-family: 'Roboto Slab', serif;
 }
 
 
 /* Projects
 ------------------------------------*/
 .projects {
-  background: #0C082E;
+  background: #FFFAEF;
 }
 .projects a {
-  color: #FFE7E0;
+  color: #2F3061;
 }
 .projects .btn {
-  color: #0C082E;
-  background: #FFE7E0;
+  color: #DBECFF;
+  background: #3EA89B;
   text-decoration: none;
   padding: 8px;
   border-radius: 4px;
@@ -100,7 +101,7 @@ header {
 /* Work Experience
 ------------------------------------*/
 .work-experience {
-  background: #AFA0C5;
+  background: #A79EBA;
 }
 
 
@@ -108,7 +109,7 @@ header {
 /* Education
 ------------------------------------*/
 .education {
-  background-image: url(../images/post-its.jpeg);
+  background-image: url(../images/post-its.jpg);
   background-size: cover;
   background-position: top right;
   padding-bottom: 100px;
@@ -121,8 +122,8 @@ header {
 /* Contact Info
 ------------------------------------*/
 footer {
-  background: #943B68;
-  color: #FFE7E0;
+  background: #99BA77;
+  color: #DBECFF;
 }
 .contact-list {
   list-style-type: none;
