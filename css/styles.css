@@ -69,7 +69,28 @@ header {
   color: #DBECFF;
   font-family: 'Roboto Slab', serif;
 }
+.button{
+  background-color: #328C81;
+  border: none;
+  color: #DBECFF;
+  padding: 15px 30px;
+  border-radius: 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
 
+.button:hover {
+  background: rgba(47, 48, 97, 80%);
+}
+.button {
+  overflow: hidden;
+}
+.button h3 {
+  margin-top: 0;
+}
 
 /* Projects
 ------------------------------------*/
