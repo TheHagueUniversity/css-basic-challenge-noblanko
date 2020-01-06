@@ -125,6 +125,22 @@ header {
   background: #A79EBA;
 }
 
+/* Image Gallery
+------------------------------------*/
+.gallery {
+  background: #F4F4F2;
+}
+.galleryimage {
+  border: 1px solid #FCFCFC;
+  border-radius: 10px;
+  padding: 5px; 
+  width: 250px; 
+}
+
+img.galleryimage:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 180, 80%);
+}
+
 
 
 /* Education
